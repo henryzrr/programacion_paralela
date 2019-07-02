@@ -1,0 +1,7 @@
+Para correr el codigo generador de texto
+despues de compilar se debe ejecutar de la siguiente manera
+
+./ejecutable  > archivo
+
+se debe mantener el nombre "archivo", para que el codigo pvm funcione 
+correctamente, el archivo llamado "archivo" debe estar en $HOME
